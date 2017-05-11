@@ -1,0 +1,3 @@
+D:/pyProjects/ddm_blog_examples/fcn-caffe/fcn8s-heavy-pascal.prototxt
+D:/pyProjects/ddm_blog_examples/fcn-caffe/fcn8s-heavy-pascal.caffemodel
+D:/pyProjects/ddm_blog_examples/fcn-caffe/dog.jpg
